@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Plugin>
+    <Package>Nubi.AltArmy.Main</Package>
+    <Information>
+        <Name>AltArmy</Name>
+        <Author>Nubi</Author>
+        <Version>0.1</Version>
+        <!-- <Image>Nubi/AltArmy/Resources/Icon.tga</Image> -->
+        <Image>Nubi/AltArmy/Resources/AltArmyIcon.jpg</Image>
+        <!-- <Image>Nubi/AltArmy/Resources/AltArmyIconDark.jpg</Image> -->
+        <Description>This plugin saves character data to a file so you can view it offline with the AltArmy app. 
+
+Things like: 
+    Race, Class, Level, Money and Wallet items
+
+Set this plugin to automatically load for all characters on every one of your accounts. View it all at once with the app!
+        </Description>
+    </Information>
+</Plugin>
