@@ -2,7 +2,7 @@
 
 This is a LOTRO plugin used to save character data. It works in tandem with the Alt Armyu App to view character data offline.
 
-Download a zip of the plugin at:  https://github.com/Noobythemidget/AltArmyPlugin/tree/main/Downloads
+Download a zip of the plugin at:  https://github.com/Noobythemidget/AltArmyPlugin/releases/tag/v0.1.0-beta
 
 \
 Extract it to the Plugins folder so that it has the following structure:
